@@ -10,6 +10,6 @@ NIS : 4415/1313.063
 
 Nama Sekolah : SMK Telkom Malang 
 
-Nama Aplikasi : AdvancedWidget1
+Nama Aplikasi : AdvancedWidget2
 
-Screenshoot : [SS AdvancedWidget1](https://github.com/rahajengvio/AdvancedWidget2/blob/master/AW2.JPG)
+Screenshoot : [SS AdvancedWidget2](https://github.com/rahajengvio/AdvancedWidget2/blob/master/AW2.JPG)
